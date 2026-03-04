@@ -1,2 +1,2 @@
 langgenius/dify-api:1.6.0
-hanhighdb:latest
+xuxuclassmate/highgo
