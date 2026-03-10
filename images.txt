@@ -1,2 +1,3 @@
 langgenius/dify-api:1.6.0
 xuxuclassmate/highgo
+nacos/nacos-server:v2.5.2
