@@ -1,1 +1,1 @@
-registry.highgo.com/highgo-db
+registry.highgo.com/highgo-db:6.0.1
