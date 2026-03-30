@@ -1,1 +1,1 @@
-yycx/oracle11:11.2.0.4
+registry.highgo.com/highgo-db
